@@ -1,0 +1,6 @@
+1. Based on previous task 'PhoneBook' implement following, using functions and stored procedures:
+Function that returns all records based on a pattern (example of pattern: part of name, surname, phone number)
+Create procedure to insert new user by name and phone, update phone if user already exists
+Create procedure to insert many new users by list of name and phone. Use loop and if statement in stored procedure. Check correctness of phone in procedure and return all incorrect data.
+Create function to querying data from the tables with pagination (by limit and offset)
+Implement procedure to deleting data from tables by username or phone
